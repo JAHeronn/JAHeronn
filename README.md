@@ -1,4 +1,5 @@
-Hi there 👋
+## Hello, I'm Joseph 👋
+![Github-banner-gif](https://github.com/user-attachments/assets/833d6973-337d-42e1-84bf-adbedcf6bd8c)
 
 
 <!-- https://github.com/user-attachments/assets/9e5c0b4b-85b0-4790-888e-1297b78b6ab3 -->

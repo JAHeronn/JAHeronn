@@ -7,7 +7,11 @@ Currently, I am looking to expand my skills by learning additional languages and
 
 <!-- https://github.com/user-attachments/assets/9e5c0b4b-85b0-4790-888e-1297b78b6ab3 -->
 
+## Socials
+[LinkedIn][-1]
 
+## Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaheronn&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="jaheronn" /></p>
 <!--
 **JAHeronn/JAHeronn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,3 +26,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[-1]: https://www.linkedin.com/in/jaheronn/

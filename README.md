@@ -3,7 +3,7 @@
 
 I'm a Junior Full-Stack Developer with a background in political science. I have experience building and deploying web apps using Ruby on Rails.
 
-Currently, I am looking to expand my skills by learning additional languages and tools, as well as further my experience by taking on challenging projects.
+Currently, I'm focused on expanding my technical skill set by learning additional languages and tools, while tackling exciting projects to further my development experience.
 
 <!-- https://github.com/user-attachments/assets/9e5c0b4b-85b0-4790-888e-1297b78b6ab3 -->
 

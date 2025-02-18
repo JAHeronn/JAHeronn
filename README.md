@@ -1,7 +1,7 @@
 ## Hello, I'm Joseph 👋
 ![Github-banner-gif](https://github.com/user-attachments/assets/833d6973-337d-42e1-84bf-adbedcf6bd8c)
 
-I'm a Junior Full-Stack Developer with a background in political science. I have experience building and deploying web apps using Ruby on Rails, with more recent utilisation of node and react.
+I'm a Junior Full-Stack Developer with a background in political science. I have experience building and deploying web apps using Ruby on Rails, with a more recent utilisation of node and react.
 
 Currently, I'm focused on expanding my technical skill set by learning additional languages and tools, while tackling exciting projects to further my development experience.
 
